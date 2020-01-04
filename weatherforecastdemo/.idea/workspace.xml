@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78991da4-277f-42ac-ae91-caf99f6d8693" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="weatherforecastdemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VctHU1tWxKU64glvX2YI0Biijp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WeatherAppSPA" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ibrahim.weatherforecastdemo.services" />
+      <recent name="com.ibrahim.weatherforecastdemo.openweather" />
+      <recent name="com.ibrahim.weatherforecastdemo.daos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WeatherforecastdemoApplication">
+    <configuration name="E2E Tests (weather-application)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/views/WeatherApplication/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherforecastdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="weatherforecastdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibrahim.weatherforecastdemo.WeatherforecastdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/views/WeatherApplication/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78991da4-277f-42ac-ae91-caf99f6d8693" name="Default Changelist" comment="" />
+      <created>1577564122432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577564122432</updated>
+      <workItem from="1577564126607" duration="12443000" />
+      <workItem from="1577611748475" duration="3848000" />
+      <workItem from="1577624340429" duration="5725000" />
+      <workItem from="1577635578179" duration="838000" />
+      <workItem from="1577636606715" duration="3023000" />
+      <workItem from="1577657304317" duration="2300000" />
+      <workItem from="1577697735399" duration="5288000" />
+      <workItem from="1577722078814" duration="6497000" />
+      <workItem from="1577740352507" duration="8436000" />
+      <workItem from="1577814897837" duration="7208000" />
+      <workItem from="1577831024280" duration="5463000" />
+      <workItem from="1577870862456" duration="1845000" />
+      <workItem from="1577893901845" duration="21265000" />
+      <workItem from="1578072511822" duration="7190000" />
+      <workItem from="1578091175357" duration="12850000" />
+      <workItem from="1578137996335" duration="1060000" />
+      <workItem from="1578161142480" duration="244000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit: User api">
+      <created>1577574147728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577574147728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="get request with api key is ready to be implemented">
+      <created>1577583565933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577583565933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="get/update/delete operations are implemented for Cities">
+      <created>1577614984943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577614984943</updated>
+    </task>
+    <task id="LOCAL-00004" summary="QueryLog service is implemented">
+      <created>1577629776018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577629776018</updated>
+    </task>
+    <task id="LOCAL-00005" summary="openweather service is implemented">
+      <created>1577741563586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577741563586</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cors policy updated">
+      <created>1577752139242</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577752139242</updated>
+    </task>
+    <task id="LOCAL-00007" summary="openweatherservice is moved into user controller and return the correct temperature for desired cities">
+      <created>1577818208432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577818208432</updated>
+    </task>
+    <task id="LOCAL-00008" summary="logging is now partially working. only userid must be to implemented">
+      <created>1577834234753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577834234753</updated>
+    </task>
+    <task id="LOCAL-00009" summary="authentication is done">
+      <created>1577921461748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577921461749</updated>
+    </task>
+    <task id="LOCAL-00010" summary="root user cannot be deleted&#10;logs are updated. now there is a column for username who made the request">
+      <created>1578076395208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578076395208</updated>
+    </task>
+    <task id="LOCAL-00011" summary="whitespace in a cityname is replaced by %20&#10;status is checked by == 200">
+      <created>1578077076152</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578077076152</updated>
+    </task>
+    <task id="LOCAL-00012" summary="passwords are now kept in a secure way">
+      <created>1578097816008</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578097816008</updated>
+    </task>
+    <task id="LOCAL-00013" summary="null check for password checking">
+      <created>1578106586009</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578106586009</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../WeatherApplicationSPA/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit: User api" />
+    <MESSAGE value="get request with api key is ready to be implemented" />
+    <MESSAGE value="get/update/delete operations are implemented for Cities" />
+    <MESSAGE value="QueryLog service is implemented" />
+    <MESSAGE value="openweather service is implemented" />
+    <MESSAGE value="cors policy updated" />
+    <MESSAGE value="openweatherservice is moved into user controller and return the correct temperature for desired cities" />
+    <MESSAGE value="logging is now partially working. only userid must be to implemented" />
+    <MESSAGE value="authentication is done" />
+    <MESSAGE value="root user cannot be deleted&#10;logs are updated. now there is a column for username who made the request" />
+    <MESSAGE value="whitespace in a cityname is replaced by %20&#10;status is checked by == 200" />
+    <MESSAGE value="passwords are now kept in a secure way" />
+    <MESSAGE value="null check for password checking" />
+    <option name="LAST_COMMIT_MESSAGE" value="null check for password checking" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="954" y="206" key="#Assign_Data_Sources" timestamp="1578100220968">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="954" y="206" key="#Assign_Data_Sources/62.0.1858.1080@62.0.1858.1080" timestamp="1578100220968" />
+    <state x="1161" y="254" key="#com.intellij.ide.util.MemberChooser" timestamp="1578100028649">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1161" y="254" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1578100028649" />
+    <state x="913" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577906048320">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="913" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1577906048320" />
+    <state x="1061" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577899189450">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1061" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1577899189450" />
+    <state x="838" y="491" key="#xdebugger.evaluate" timestamp="1578073538241">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="838" y="491" key="#xdebugger.evaluate/62.0.1858.1080@62.0.1858.1080" timestamp="1578073538241" />
+    <state x="732" y="150" key="CommitChangelistDialog2" timestamp="1578106585274">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="732" y="150" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1578106585274" />
+    <state width="492" height="466" key="DebuggerActiveHint" timestamp="1578076659522">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="492" height="466" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1578076659522" />
+    <state x="1207" y="313" key="FileChooserDialogImpl" timestamp="1578138005341">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1207" y="313" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1578138005341" />
+    <state x="1215" y="451" key="Github.ShareDialog" timestamp="1577574267568">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1215" y="451" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1577574267568" />
+    <state width="1815" height="171" key="GridCell.Tab.0.bottom" timestamp="1578139056600">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
+    <state width="1815" height="171" key="GridCell.Tab.0.center" timestamp="1578139056599">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056599" />
+    <state width="1815" height="171" key="GridCell.Tab.0.left" timestamp="1578139056599">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056599" />
+    <state width="1815" height="171" key="GridCell.Tab.0.right" timestamp="1578139056600">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
+    <state width="1815" height="171" key="GridCell.Tab.1.bottom" timestamp="1578139056600">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
+    <state width="1815" height="171" key="GridCell.Tab.1.center" timestamp="1578139056600">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
+    <state width="1815" height="171" key="GridCell.Tab.1.left" timestamp="1578139056600">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
+    <state width="1815" height="171" key="GridCell.Tab.1.right" timestamp="1578139056600">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="171" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
+    <state width="1307" height="300" key="GridCell.Tab.2.bottom" timestamp="1578106598324">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1307" height="300" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598324" />
+    <state width="1307" height="300" key="GridCell.Tab.2.center" timestamp="1578106598323">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1307" height="300" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598323" />
+    <state width="1307" height="300" key="GridCell.Tab.2.left" timestamp="1578106598323">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1307" height="300" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598323" />
+    <state width="1307" height="300" key="GridCell.Tab.2.right" timestamp="1578106598323">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1307" height="300" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598323" />
+    <state x="977" y="258" key="RollbackChangesDialog" timestamp="1578102594708">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="977" y="258" key="RollbackChangesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1578102594708" />
+    <state x="859" y="189" key="SettingsEditor" timestamp="1577915618412">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="859" y="189" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1577915618412" />
+    <state x="923" y="288" key="Vcs.Push.Dialog.v2" timestamp="1578106587372">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="923" y="288" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1578106587372" />
+    <state x="663" y="109" width="1167" height="869" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578104361771">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="663" y="109" width="1167" height="869" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1578104361771" />
+    <state x="862" y="163" width="586" height="732" key="find.popup" timestamp="1578103462263">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="862" y="163" width="586" height="732" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1578103462263" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/daos/OpenWeatherDAOImpl.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/controllers/UserController.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/JwtRequestFilter.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/MyUserDetailsService.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="&quot;$2a$10$SuQO7t7/dbF2xLO1WuQ3RucJuZQ6QaJiTOlTGXhGWK.D6o1TPMvZq&quot;.equals(pWord)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

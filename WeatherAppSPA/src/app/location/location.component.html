@@ -1,0 +1,26 @@
+<div style="padding-left: 100px;">
+  <br><br>
+  <div style="text-align: left">
+    City name : <input type="text" name="cityname" [(ngModel)]="newCityName">
+    <input type="submit" value="Add City" (click)="addCity()">
+  </div>
+  <br><Br>
+  <table id="cities">
+    <tr>
+      <th *ngFor = "let column of headers">
+        {{column}}
+      </th>
+    </tr>
+    <tr *ngFor = "let city of cities;let i = index">
+      <td *ngFor = "let column of headers">
+        {{city[column]}}
+      </td>
+      <td>
+        <button id="deleteButton" (click)="deleteCity(i)">
+          <i class="fa fa-trash"></i>
+        </button>
+      </td>
+    </tr>
+  </table>
+</div>
+

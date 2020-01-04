@@ -1,0 +1,17 @@
+<div style="padding-left: 100px;">
+  <br><br>
+  <h3>Show Weather</h3>
+
+  <select [(ngModel)]="selectedCity" id="category" (change)="getTemperature()">
+    <option value="" disabled selected>Select a city</option>
+    <option *ngFor="let city of cities" [value]="city.id">{{city.cityName}}</option>
+  </select>
+
+  <br><br>
+
+
+  <div *ngIf="selectedCity > 0">
+    {{selectedCityName}} is {{temperature}} Celsius
+  </div>
+
+</div>

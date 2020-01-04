@@ -1,0 +1,26 @@
+h1
+{
+  text-align: center;
+  color: blueviolet;
+}
+
+#logs {
+  font-family: "Trebuchet MS", Arial, "Helvetica Neue", sans-serif;
+  border-collapse: collapse;
+  width: auto;
+}
+
+#logs td, #logs th {
+  border: 1px solid white;
+  padding: 8px;
+}
+
+#logs tr:nth-child(even){background-color: #f2f2f2;}
+#logs tr:hover {background-color: #ddd;}
+#logs th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: blueviolet;
+  color: white;
+}

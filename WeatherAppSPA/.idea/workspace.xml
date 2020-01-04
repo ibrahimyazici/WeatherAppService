@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7db98c0-81dc-45c8-ad00-a99888eba324" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/user/user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/user/user.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vn6NcSCKnUR53orfQ3OnXDDVq0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="C:\Users\legen\Documents\WeatherAppSPA\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\legen\Documents\WeatherAppSPA\src\app\services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (WeatherAppSPA)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7db98c0-81dc-45c8-ad00-a99888eba324" name="Default Changelist" comment="" />
+      <created>1577876472870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577876472870</updated>
+      <workItem from="1577876474458" duration="7481000" />
+      <workItem from="1577893920661" duration="17577000" />
+      <workItem from="1578072070199" duration="7673000" />
+      <workItem from="1578091280442" duration="6773000" />
+      <workItem from="1578138010513" duration="648000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit&#10;previous project is upgraded from angular 2 to angular 8 for compability issues regarding angular material features&#10;+ filtering and sorting capabilities are added">
+      <created>1577886293300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577886293300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="authentication is done">
+      <created>1577921479352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577921479352</updated>
+    </task>
+    <task id="LOCAL-00003" summary="login page is made default&#10;first page is login page and it directs to show weather page after logged in&#10;login layout is more beautiful now">
+      <created>1578076452920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578076452920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="log out feature is added">
+      <created>1578079514920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578079514920</updated>
+    </task>
+    <task id="LOCAL-00005" summary="login bug fixed">
+      <created>1578093894232</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578093894232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit&#10;previous project is upgraded from angular 2 to angular 8 for compability issues regarding angular material features&#10;+ filtering and sorting capabilities are added" />
+    <MESSAGE value="authentication is done" />
+    <MESSAGE value="login page is made default&#10;first page is login page and it directs to show weather page after logged in&#10;login layout is more beautiful now" />
+    <MESSAGE value="log out feature is added" />
+    <MESSAGE value="login bug fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="login bug fixed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="963" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1577911782005">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="963" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1577911782005" />
+    <state x="1157" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577877086124">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1157" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1577877086124" />
+    <state x="628" y="128" key="CommitChangelistDialog2" timestamp="1578093893423">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="628" y="128" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1578093893423" />
+    <state x="1144" y="288" key="FileChooserDialogImpl" timestamp="1578072508728">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1144" y="288" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1578072508728" />
+    <state x="1256" y="429" key="Github.ShareDialog" timestamp="1577886312700">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1256" y="429" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1577886312700" />
+    <state width="1815" height="273" key="GridCell.Tab.0.bottom" timestamp="1578139051472">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="273" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578139051472" />
+    <state width="1815" height="273" key="GridCell.Tab.0.center" timestamp="1578139051472">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="273" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578139051472" />
+    <state width="1815" height="273" key="GridCell.Tab.0.left" timestamp="1578139051471">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="273" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578139051471" />
+    <state width="1815" height="273" key="GridCell.Tab.0.right" timestamp="1578139051472">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="273" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578139051472" />
+    <state x="1029" y="244" key="RollbackChangesDialog" timestamp="1578078565167">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1029" y="244" key="RollbackChangesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1578078565167" />
+    <state x="985" y="266" key="Vcs.Push.Dialog.v2" timestamp="1578093896361">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="985" y="266" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1578093896361" />
+  </component>
+</project>

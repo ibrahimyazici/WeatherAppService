@@ -1,0 +1,13 @@
+
+<table matSort (matSortChange)="sortData($event)" id="logs">
+  <tr>
+    <th *ngFor = "let column of headers">
+      {{column}}
+    </th>
+  </tr>
+  <tr *ngFor = "let queryLog of queryLogs">
+    <td *ngFor = "let column of headers">
+      {{queryLog[column]}}
+    </td>
+  </tr>
+</table>

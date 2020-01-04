@@ -1,0 +1,12 @@
+.full-width-table {
+  width: 100%;
+}
+
+::placeholder {
+  color: rebeccapurple;
+  opacity: 1;
+}
+
+#filterOption {
+  background-color: lightgray;
+}
