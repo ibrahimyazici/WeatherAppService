@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78991da4-277f-42ac-ae91-caf99f6d8693" name="Default Changelist" comment="" />
+    <list default="true" id="78991da4-277f-42ac-ae91-caf99f6d8693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WeatherAppSPA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WeatherAppSPA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeatherAppSPA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WeatherAppSPA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/weatherforecastdemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -55,7 +64,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -133,6 +142,7 @@
       <workItem from="1578091175357" duration="12850000" />
       <workItem from="1578137996335" duration="1060000" />
       <workItem from="1578161142480" duration="244000" />
+      <workItem from="1578180987220" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit: User api">
       <created>1577574147728</created>
@@ -239,6 +249,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Initial commit: User api" />
     <MESSAGE value="get request with api key is ready to be implemented" />
     <MESSAGE value="get/update/delete operations are implemented for Cities" />
@@ -283,70 +296,70 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="492" height="466" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1578076659522" />
-    <state x="1207" y="313" key="FileChooserDialogImpl" timestamp="1578138005341">
+    <state x="1207" y="313" key="FileChooserDialogImpl" timestamp="1578180993206">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="1207" y="313" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1578138005341" />
+    <state x="1207" y="313" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1578180993206" />
     <state x="1215" y="451" key="Github.ShareDialog" timestamp="1577574267568">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="1215" y="451" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1577574267568" />
-    <state width="1815" height="171" key="GridCell.Tab.0.bottom" timestamp="1578139056600">
+    <state width="1815" height="199" key="GridCell.Tab.0.bottom" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
-    <state width="1815" height="171" key="GridCell.Tab.0.center" timestamp="1578139056599">
+    <state width="1815" height="199" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.0.center" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056599" />
-    <state width="1815" height="171" key="GridCell.Tab.0.left" timestamp="1578139056599">
+    <state width="1815" height="199" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.0.left" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056599" />
-    <state width="1815" height="171" key="GridCell.Tab.0.right" timestamp="1578139056600">
+    <state width="1815" height="199" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.0.right" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
-    <state width="1815" height="171" key="GridCell.Tab.1.bottom" timestamp="1578139056600">
+    <state width="1815" height="199" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.1.bottom" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
-    <state width="1815" height="171" key="GridCell.Tab.1.center" timestamp="1578139056600">
+    <state width="1815" height="199" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.1.center" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
-    <state width="1815" height="171" key="GridCell.Tab.1.left" timestamp="1578139056600">
+    <state width="1815" height="199" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.1.left" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
-    <state width="1815" height="171" key="GridCell.Tab.1.right" timestamp="1578139056600">
+    <state width="1815" height="199" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="199" key="GridCell.Tab.1.right" timestamp="1578182257914">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="171" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578139056600" />
-    <state width="1307" height="300" key="GridCell.Tab.2.bottom" timestamp="1578106598324">
+    <state width="1815" height="199" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578182257914" />
+    <state width="1815" height="306" key="GridCell.Tab.2.bottom" timestamp="1578181987294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1307" height="300" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598324" />
-    <state width="1307" height="300" key="GridCell.Tab.2.center" timestamp="1578106598323">
+    <state width="1815" height="306" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1578181987294" />
+    <state width="1815" height="306" key="GridCell.Tab.2.center" timestamp="1578181987294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1307" height="300" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598323" />
-    <state width="1307" height="300" key="GridCell.Tab.2.left" timestamp="1578106598323">
+    <state width="1815" height="306" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1578181987294" />
+    <state width="1815" height="306" key="GridCell.Tab.2.left" timestamp="1578181987293">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1307" height="300" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598323" />
-    <state width="1307" height="300" key="GridCell.Tab.2.right" timestamp="1578106598323">
+    <state width="1815" height="306" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1578181987293" />
+    <state width="1815" height="306" key="GridCell.Tab.2.right" timestamp="1578181987294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1307" height="300" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578106598323" />
+    <state width="1815" height="306" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1578181987294" />
     <state x="977" y="258" key="RollbackChangesDialog" timestamp="1578102594708">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="977" y="258" key="RollbackChangesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1578102594708" />
-    <state x="859" y="189" key="SettingsEditor" timestamp="1577915618412">
+    <state x="859" y="189" key="SettingsEditor" timestamp="1578181156178">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="859" y="189" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1577915618412" />
+    <state x="859" y="189" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1578181156178" />
     <state x="923" y="288" key="Vcs.Push.Dialog.v2" timestamp="1578106587372">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -369,16 +382,6 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/controllers/UserController.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/JwtRequestFilter.java</url>
           <line>34</line>
           <option name="timeStamp" value="37" />
@@ -387,6 +390,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/MyUserDetailsService.java</url>
           <line>31</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

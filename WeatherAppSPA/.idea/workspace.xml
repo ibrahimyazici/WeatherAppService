@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7db98c0-81dc-45c8-ad00-a99888eba324" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/user/user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/user/user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weatherforecastdemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weatherforecastdemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weatherforecastdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weatherforecastdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weatherforecastdemo/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../weatherforecastdemo/src/main/java/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weatherforecastdemo/src/main/java/com/ibrahim/weatherforecastdemo/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../weatherforecastdemo/src/main/java/com/ibrahim/weatherforecastdemo/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weatherforecastdemo/target/classes/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../weatherforecastdemo/target/classes/com/ibrahim/weatherforecastdemo/authentication/AuthenticationController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +23,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Vn6NcSCKnUR53orfQ3OnXDDVq0" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -43,7 +48,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="ts.external.directory.path" value="C:\Users\legen\Documents\WeatherAppSPA\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\legen\OneDrive\Masaüstü\weather app service and spa\WeatherAppSPA\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -100,6 +105,7 @@
       <workItem from="1578072070199" duration="7673000" />
       <workItem from="1578091280442" duration="6773000" />
       <workItem from="1578138010513" duration="648000" />
+      <workItem from="1578181000634" duration="763000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit&#10;previous project is upgraded from angular 2 to angular 8 for compability issues regarding angular material features&#10;+ filtering and sorting capabilities are added">
       <created>1577886293300</created>
